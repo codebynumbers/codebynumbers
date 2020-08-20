@@ -1,0 +1,64 @@
+# Fiction Books I've Read (or Listened to)
+
+- We Are Legion (We Are Bob) - Dennis E. Taylor
+- For We Are Many - Dennis E. Taylor
+- All These Worlds - Dennis E. Taylor
+- Ready Player One - Ernest Cline
+- The Rise and Fall of D.O.D.O - Neal Stephenson, Nicole Galland
+- Off to Be the Wizard - Scott Meyer
+- Spell or High Water - Scott Meyer
+- An Unwelcome Quest - Scott Meyer
+- Fight and Flight - Scott Meyer
+- Out of Spite, Out of Mind - Scott Meyer
+- The Singularity Trap - Dennis E. Taylor
+- Redshirts - John Scalzi
+- Lock In - John Scalzi
+- The Authorities - Scott Meyer
+- The Android's Dream - John Scalzi
+- The Collapsing Empire - John Scalzi
+- Run Program - Scott Meyer
+- Artemis - Any Weird
+- Armada - Ernest Cline
+- Agent to the Stars - John Scalzi
+- Galaxy Outlaws: The Complete Black Ocean Missions - J.S. Morin
+- The Vexed Generation - Scott Meyer
+- Mercy for Hire Mission Pack 1 - J.S. Morin
+- Astral Prime Mission Pack 1 - J.S. Morin 
+- Robot Geneticists - J.S. Morin
+- Space Team - Barry J. Hutchinson
+- Space Team: The Wrath of Vajazzle - Barry J Hutchinson
+- Space Team: The Search for Splurt - Barry J Hutchinson
+- Space Team: Song of the Space Siren - Barry J Hutchinson
+- Space Team: The Guns of Nana Joan - Barry J Hutchinson
+- Space Team: Return of the Dead Guy - Barry J Hutchinson
+- The Dispatcher - John Scalzi
+- Fahrenheit 451 - Ray Bradbury
+- The Martian Chronicles - Ray Bradbury
+- Dune - Frank Herbert
+- The Hitchhiker’s Guide to the Galaxy - Douglas Adams
+- The Restaurant at the End of the Universe - Douglas Adams
+- 1984 - George Orwell
+- Do Androids Dream of Electric Sheep - Philip K. Dick
+- A Scanner Darkly - Philip K. Dick
+- Flowers for Algernon - Daniel Keyes
+- Discworld - Terry Pratchett
+- Brave New World - Aldous Huxley
+- The Hot Zone - Richard Preston
+- Sphere - Michael Chrichton
+- The Andromeda Strain - Michael Crichton
+- The Stand - Stephen King
+- 2001: A Space Odyssey - Arthur C. Clarke
+- 2010: Odyssey Two - Arthur C. Clarke
+- 2061: Odyssey Three - Arthur C. Clarke
+- I, Robot - Isaac Asimov
+- Snow Crash - Neil Stephenson 
+- The Diamond Age - Neil Stephenson 
+- Slaughterhouse-Five - Kurt Vonnegut
+- Oryx and Crake - Margaret Atwood
+
+# TO READ:
+- Ender’s Game - Orson Scott Card
+- Ubik - Philip K. Dick
+
+# TODO:
+- Add all the discworld books 
