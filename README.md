@@ -12,4 +12,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebynumbers&layout=compact&theme=synthwave" />
 </a>
 
-[Most of my Favorite Books](/codebynumbers/codebynumbers/blob/master/BOOKS.md)
+[Most of my Favorite Books](https://github.com/codebynumbers/codebynumbers/blob/master/BOOKS.md)
