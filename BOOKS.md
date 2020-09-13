@@ -65,8 +65,9 @@
 1. Slaughterhouse-Five - Kurt Vonnegut
 1. Oryx and Crake - Margaret Atwood
 1. Neverwhere - Neil Gaiman
-1. Startdust - Neil Gaiman
+1. Stardust - Neil Gaiman
 1. American Gods - Neil Gaiman
+1. The Sandman - Neil Gaiman
 1. Good Omens - Neil Gaiman and Terry Pratchett
 1. Perdido Street Station - China Mieville
 1. The Scar - China Mieville
