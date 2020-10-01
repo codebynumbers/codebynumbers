@@ -66,6 +66,7 @@
 1. Oryx and Crake - Margaret Atwood
 1. Neverwhere - Neil Gaiman
 1. Stardust - Neil Gaiman
+1. Coraline - Neil Gaiman
 1. American Gods - Neil Gaiman
 1. The Sandman - Neil Gaiman
 1. Good Omens - Neil Gaiman and Terry Pratchett
@@ -80,7 +81,7 @@
 # TO READ:
 1. Heaven's River - Dennis E. Taylor
 1. Ready Player Two - Ernest Cline
-1. Ender’s Game - Orson Scott Card
+1. Ender's Game - Orson Scott Card
 1. Ubik - Philip K. Dick
 1. Childhood's End - Arthur C. Clarke
 1. Foundation - Isaac Asimov
