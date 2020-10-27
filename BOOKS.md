@@ -31,6 +31,7 @@
 1. Space Team: Song of the Space Siren - Barry J Hutchinson
 1. Space Team: The Guns of Nana Joan - Barry J Hutchinson
 1. Space Team: Return of the Dead Guy - Barry J Hutchinson
+1. Space Team: Planet of the Japes - Barry J Hutchinson
 1. The Dispatcher - John Scalzi
 1. Fahrenheit 451 - Ray Bradbury
 1. The Martian Chronicles - Ray Bradbury
