@@ -3,6 +3,7 @@
 1. We Are Legion (We Are Bob) - Dennis E. Taylor
 1. For We Are Many - Dennis E. Taylor
 1. All These Worlds - Dennis E. Taylor
+1. Heavens' River - Dennis E. Taylor
 1. Ready Player One - Ernest Cline
 1. The Rise and Fall of D.O.D.O - Neal Stephenson, Nicole Galland
 1. Off to Be the Wizard - Scott Meyer
@@ -80,7 +81,6 @@
 1. One Flew Over the Cuckoo's Nest - Ken Kesey 
 
 # TO READ:
-1. Heaven's River - Dennis E. Taylor
 1. Ready Player Two - Ernest Cline
 1. Ender's Game - Orson Scott Card
 1. Ubik - Philip K. Dick
