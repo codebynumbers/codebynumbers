@@ -33,52 +33,54 @@
 1. Space Team: The Guns of Nana Joan - Barry J Hutchinson
 1. Space Team: Return of the Dead Guy - Barry J Hutchinson
 1. Space Team: Planet of the Japes - Barry J Hutchinson
-1. The Dispatcher - John Scalzi
-1. Fahrenheit 451 - Ray Bradbury
-1. The Martian Chronicles - Ray Bradbury
-1. Dune - Frank Herbert
-1. The Hitchhiker’s Guide to the Galaxy - Douglas Adams
-1. The Restaurant at the End of the Universe - Douglas Adams
-1. 1984 - George Orwell
-1. Do Androids Dream of Electric Sheep - Philip K. Dick
-1. A Scanner Darkly - Philip K. Dick
-1. Flowers for Algernon - Daniel Keyes
-1. The Color of Magic: A Novel of Discworld - Terry Pratchett
-1. The Light Fantastic: A Novel of Discworld - Terry Pratchett
-1. Equal Rites: A Novel of Discworld - Terry Pratchett
-1. Mort: A Novel of Discworld - Terry Pratchett
-1. Sourcery: A Novel of Discworld - Terry Pratchett
-1. Wyrd Sisters: A Novel of Discworld - Terry Pratchett
-1. Moving Pictures: A Novel of Discworld - Terry Pratchett
-1. Reaper Man: A Novel of Discworld - Terry Pratchett
-1. Small Gods: Discworld Novel, A - Terry Pratchett
-1. Going Postal (Discworld Book 33) - Terry Pratchett
-1. Brave New World - Aldous Huxley
-1. The Hot Zone - Richard Preston
-1. Sphere - Michael Chrichton
-1. The Andromeda Strain - Michael Crichton
-1. The Stand - Stephen King
-1. 2001: A Space Odyssey - Arthur C. Clarke
-1. 2010: Odyssey Two - Arthur C. Clarke
-1. 2061: Odyssey Three - Arthur C. Clarke
-1. I, Robot - Isaac Asimov
-1. Snow Crash - Neil Stephenson 
-1. The Diamond Age - Neil Stephenson 
-1. Slaughterhouse-Five - Kurt Vonnegut
-1. Oryx and Crake - Margaret Atwood
-1. Neverwhere - Neil Gaiman
-1. Stardust - Neil Gaiman
-1. Coraline - Neil Gaiman
-1. American Gods - Neil Gaiman
-1. The Sandman - Neil Gaiman
-1. Good Omens - Neil Gaiman and Terry Pratchett
-1. Perdido Street Station - China Mieville
-1. The Scar - China Mieville
-1. Iron Council - China Mieville
-1. The City and The City - China Mieville
-1. King Rat - China Mieville
-1. A Clockwork Orange - Anthony Burgess
-1. One Flew Over the Cuckoo's Nest - Ken Kesey 
+2. Space Team: The Time Titan of Tomorrow - Barry J Hutchinson
+3. Space Team: The King of Space Must Die - Barry J Hutchinson
+4. The Dispatcher - John Scalzi
+5. Fahrenheit 451 - Ray Bradbury
+6. The Martian Chronicles - Ray Bradbury
+7. Dune - Frank Herbert
+8. The Hitchhiker’s Guide to the Galaxy - Douglas Adams
+9. The Restaurant at the End of the Universe - Douglas Adams
+10. 1984 - George Orwell
+11. Do Androids Dream of Electric Sheep - Philip K. Dick
+12. A Scanner Darkly - Philip K. Dick
+13. Flowers for Algernon - Daniel Keyes
+14. The Color of Magic: A Novel of Discworld - Terry Pratchett
+15. The Light Fantastic: A Novel of Discworld - Terry Pratchett
+16. Equal Rites: A Novel of Discworld - Terry Pratchett
+17. Mort: A Novel of Discworld - Terry Pratchett
+18. Sourcery: A Novel of Discworld - Terry Pratchett
+19. Wyrd Sisters: A Novel of Discworld - Terry Pratchett
+20. Moving Pictures: A Novel of Discworld - Terry Pratchett
+21. Reaper Man: A Novel of Discworld - Terry Pratchett
+22. Small Gods: Discworld Novel, A - Terry Pratchett
+23. Going Postal (Discworld Book 33) - Terry Pratchett
+24. Brave New World - Aldous Huxley
+25. The Hot Zone - Richard Preston
+26. Sphere - Michael Chrichton
+27. The Andromeda Strain - Michael Crichton
+28. The Stand - Stephen King
+29. 2001: A Space Odyssey - Arthur C. Clarke
+30. 2010: Odyssey Two - Arthur C. Clarke
+31. 2061: Odyssey Three - Arthur C. Clarke
+32. I, Robot - Isaac Asimov
+33. Snow Crash - Neil Stephenson 
+34. The Diamond Age - Neil Stephenson 
+35. Slaughterhouse-Five - Kurt Vonnegut
+36. Oryx and Crake - Margaret Atwood
+37. Neverwhere - Neil Gaiman
+38. Stardust - Neil Gaiman
+39. Coraline - Neil Gaiman
+40. American Gods - Neil Gaiman
+41. The Sandman - Neil Gaiman
+42. Good Omens - Neil Gaiman and Terry Pratchett
+43. Perdido Street Station - China Mieville
+44. The Scar - China Mieville
+45. Iron Council - China Mieville
+46. The City and The City - China Mieville
+47. King Rat - China Mieville
+48. A Clockwork Orange - Anthony Burgess
+49. One Flew Over the Cuckoo's Nest - Ken Kesey 
 
 # TO READ:
 1. Ready Player Two - Ernest Cline
