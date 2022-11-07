@@ -1,5 +1,8 @@
 # Fiction Books I've Read (or Listened to)
 
+1. Eye of the Sh*t Storm - Jackson Ford
+1. Random Sh*t Flying Through The Air - Jackson Ford
+1. The Girl Who Could Move Sh*T With Her Mind - Jackson Ford
 1. We Are Legion (We Are Bob) - Dennis E. Taylor
 1. For We Are Many - Dennis E. Taylor
 1. All These Worlds - Dennis E. Taylor
