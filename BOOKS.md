@@ -1,5 +1,9 @@
 # Fiction Books I've Read (or Listened to)
 
+1. Carl's Doomsday Scenario - Matt Dinniman 
+1. Dungeon Crawler Carl - Matt Dinniman
+1. Project Hail Mary - Any Weir
+1. A Sh*tload of Crazy Powers - Jackson Ford
 1. Eye of the Sh*t Storm - Jackson Ford
 1. Random Sh*t Flying Through The Air - Jackson Ford
 1. The Girl Who Could Move Sh*T With Her Mind - Jackson Ford
@@ -21,7 +25,7 @@
 1. The Android's Dream - John Scalzi
 1. The Collapsing Empire - John Scalzi
 1. Run Program - Scott Meyer
-1. Artemis - Any Weird
+1. Artemis - Any Weir
 1. Armada - Ernest Cline
 1. Agent to the Stars - John Scalzi
 1. Galaxy Outlaws: The Complete Black Ocean Missions - J.S. Morin
